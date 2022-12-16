@@ -1,0 +1,13 @@
+body {
+    background-color: black;
+    font-family: Calibri;
+    font-size: 14pt;
+    color: white;
+  }
+
+  h1 {
+    color: rgb(172, 19, 186);
+  }
+  p {
+    color: rgb(17, 146, 161);
+  }
